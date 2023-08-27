@@ -32,7 +32,7 @@ main = TelegramClient(
 ).start(bot_token=BOT_TOKEN)
 
 Owner = "ɴᴇɪᴍᴀɴ ᴍᴀʀᴄᴜs"
-repo = "https://github.com/NEIMAN-AI/Neiman-Banall-Bot
+repo = "https://github.com/NEIMAN-AI/Neiman-Banall-Bot"
 @main.on(events.NewMessage(pattern="^/start"))
 async def start(event):
     buttns = [Button.url("ꜱᴜᴩᴩᴏʀᴛ", "https://t.me/Neiman_X_Support"), Button.url("Sᴏᴜʀᴄᴇ ❤️", f'{repo}')]
