@@ -2,16 +2,16 @@
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=𝐅𝐨𝐫𝐤⚡+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨😼+𝐅𝐢𝐫𝐬𝐭✨">
 <p align="center">
-This Bot Will Help You To fuck your enemies grous 😼
+This Bot Will Help You To fuck your enemies groups 😼
 <h3 align="center"><strong><code> 𝗡𝗲𝗶𝗺𝗮𝗻-𝗕𝗮𝗻𝗮𝗹𝗹-𝗕𝗼𝘁 ⚡</code></strong></h3>
 <blockquote>
 <strong><i>❍&nbsp;Deploy and fuck your enemies group 😼!</i></strong><br><br>
 </blockquote>
-<summary><h4><strong><i>Commands⚙️🛠️</i></strong></h4></summary>
+<summary><h4><strong><i>⚜️Commands⚜️</i></strong></h4></summary>
 &nbsp;◍&nbsp;<code>/ping</code>&nbsp;:&nbsp;<strong>To Check Bot Ping Status.</strong><br>
-&nbsp;◍&nbsp;<code>/banall</code>&nbsp;:&nbsp;<strong>Do Check yourself</strong><br>
-&nbsp;◍&nbsp;<code>/leave</code>&nbsp;:&nbsp;<strong>Do Check yourself.</strong><br>
-&nbsp;◍&nbsp;<code>/restart</code>&nbsp;:&nbsp;<strong>Do Check yourself.</strong>
+&nbsp;◍&nbsp;<code>/banall</code>&nbsp;:&nbsp;<strong>khud try karke dekh le 😼</strong><br>
+&nbsp;◍&nbsp;<code>/leave</code>&nbsp;:&nbsp;<strong>khud try karke dekh le 😼.</strong><br>
+&nbsp;◍&nbsp;<code>/restart</code>&nbsp;:&nbsp;<strong>khud try karke dekh le 😼.</strong>
 </details><details>
 <summary><h4><strong>Deploy On Heroku. </strong></h4></summary>
 <blockquote><strong>You can deploy this bot on <code>Heroku</code> very easily from here!!</strong><br><br>
