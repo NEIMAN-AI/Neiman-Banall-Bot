@@ -81,7 +81,7 @@ async def start(event):
         )
     if event.sender.id not in SEXY:
         await event.reply(
-            "ʏᴇ ᴛᴜᴍʜᴀʀᴇ ʟɪʏᴇ ɴʜɪ ʜᴀɪ ʙᴇʏ🤧😐 !\n\nᴛᴜ ᴀᴘɴᴀ ʜᴀɪ ᴋʜᴜᴅᴋᴀ ʙᴏᴛ ʙᴀɴᴀ🤭😅  [Repository](https://github.com/NEIMAN-AI/Neiman-Banall-Bot)",
+            "ʏᴇ ᴛᴜᴍʜᴀʀᴇ ʟɪʏᴇ ɴʜɪ ʜᴀɪ ʙᴇʏ🤧😐 !\n\nᴛᴜ ᴀᴘɴe liye ᴋʜᴜᴅᴋᴀ ʙᴏᴛ ʙᴀɴᴀ 🤭  [Repository](https://github.com/NEIMAN-AI/Neiman-Banall-Bot)",
             link_preview=False,
         )       
 
