@@ -31,16 +31,16 @@ main = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "Rᴀᴅʜᴀ Sɪɴɢʜ"
-repo = "https://github.com/Radhak8/Banall-Bot"
+Owner = "ɴᴇɪᴍᴀɴ ᴍᴀʀᴄᴜs"
+repo = "https://github.com/NEIMAN-AI/Neiman-Banall-Bot
 @main.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("ꜱᴜᴩᴩᴏʀᴛ", "https://t.me/RadhaX2Support"), Button.url("Sᴏᴜʀᴄᴇ ❤️", f'{repo}')]
+    buttns = [Button.url("ꜱᴜᴩᴩᴏʀᴛ", "https://t.me/Neiman_X_Support"), Button.url("Sᴏᴜʀᴄᴇ ❤️", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in SEXY:
         await main.send_file(
             event.chat.id,
-            file="https://te.legra.ph/file/4f3bde538fdca92c3d829.jpg",
+            file="https://graph.org/file/f06caa67c8c2ff0f2c7b5.jpg",
             caption=startxt.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -54,7 +54,7 @@ async def start(event):
     if event.sender.id not in SEXY:
         await main.send_file(
             event.chat.id,
-            file="https://te.legra.ph/file/4f3bde538fdca92c3d829.jpg",
+            file="https://graph.org/file/9a5ec6f3e98c5c15903ed.jpg",
             caption=startxt2.format(
                 event.sender.first_name,
                 event.sender.id,
@@ -69,19 +69,19 @@ async def start(event):
 
 @main.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/RadhaX2Support"), Button.url("Sᴏᴜʀᴄᴇ ❤️", f'{repo}')]
+    buttns = [Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Neiman_X_Support"), Button.url("Sᴏᴜʀᴄᴇ ❤️", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in SEXY:
         await main.send_file(
             event.chat.id,
-            file="https://te.legra.ph/file/4f3bde538fdca92c3d829.jpg",
+            file="https://graph.org/file/dc48a67bf4e4f14294ba6.jpg",
             caption=hlptxt.format(event.sender.first_name, event.sender.id),
             link_preview=False,
             buttons=buttns
         )
     if event.sender.id not in SEXY:
         await event.reply(
-            "Tʜɪs ɪs ɴᴏᴛ ғᴏʀ ʏᴏᴜ ʙᴀʙᴇ!\n\nᴍᴀᴋᴇ yᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ꜰʀᴏᴍ ᴛʜɪꜱ [Repository](https://github.com/Radhak8/Banall-Bot)",
+            "ʏᴇ ᴛᴜᴍʜᴀʀᴇ ʟɪʏᴇ ɴʜɪ ʜᴀɪ ʙᴇʏ🤧😐 !\n\nᴛᴜ ᴀᴘɴᴀ ʜᴀɪ ᴋʜᴜᴅᴋᴀ ʙᴏᴛ ʙᴀɴᴀ🤭😅  [Repository](https://github.com/NEIMAN-AI/Neiman-Banall-Bot)",
             link_preview=False,
         )       
 
@@ -93,14 +93,14 @@ async def ping(event):
         txxt = await event.reply(t)
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await txxt.edit(f"I am Alive!!\n\nPing Pong🏓\n`{ms} ms`")
+        await txxt.edit(f"I am Alive⚡!!\n\nPing Pong💦\n`{ms} ms`")
 
 
 @main.on(events.NewMessage(pattern="^/banall"))
 async def bun(event):
   if event.sender.id in SEXY:
    if not event.is_group:
-        Rep = f"ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪɴ ᴀɴy ɢʀᴏᴜᴩ!!"
+        Rep = f"ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪɴ ᴀɴy ɢʀᴏᴜᴩ⚡🤭!!"
         await event.reply(Rep)
    else:
        await event.delete()
@@ -109,9 +109,9 @@ async def bun(event):
        admin = cht.admin_rights
        creator = cht.creator
        if not admin and not creator:
-           await event.reply("__ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ꜱᴜꜰꜰɪᴄɪᴇɴᴛ ʀɪɢʜᴛꜱ ᴛᴏ ᴅᴏ ᴛʜɪꜱ.__")
+           await event.reply("__ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ꜱᴜꜰꜰɪᴄɪᴇɴᴛ ʀɪɢʜᴛꜱ ᴛᴏ ᴅᴏ ᴛʜɪꜱ (sed lyf 🤭).__")
            return
-       hmm =  await event.reply("__ ꜱᴛᴀʀᴛᴇᴅ ꜰᴜᴄᴋɪɴɢ...__")
+       hmm =  await event.reply("__ ꜱᴛᴀʀᴛᴇᴅ ꜰᴜᴄᴋɪɴɢ... ohh yeah daddy 💦__")
        await sleep(18)
        await hmm.delete()
        everyone = await event.client.get_participants(event.chat_id)
@@ -144,7 +144,7 @@ async def leave(z):
         mkc = ("".join(z.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(z.text) > 7:
             mkb = int(mkc[0])
-            tet = "__ᴡᴀɪᴛ ʟᴇᴀᴠɪɴɢ...__"
+            tet = "__ᴡᴀɪᴛ ʟᴇᴀᴠɪɴɢ...😏__"
             hm = await z.reply(tet)
             try:
                 await z.client(LeaveChannelRequest(mkb))
@@ -153,17 +153,17 @@ async def leave(z):
                 await hm.edit(material(e))
         else:
             mkb = z.chat_id
-            txt = "__ʟᴇᴀᴠɪɴɢ...__"
+            txt = "__ʟᴇᴀᴠɪɴɢ...😏__"
             ok = await z.reply(txt)
             try:
                 await z.client(LeaveChannelRequest(mkb))
-                await ok.edit("**ꜱᴜᴄᴄᴇꜱꜰᴜʟʟy ʟᴇꜰᴛᴇᴅ!!**")
+                await ok.edit("**ꜱᴜᴄᴄᴇꜱꜰᴜʟʟy ʟᴇꜰᴛᴇᴅ!!😀😼**")
             except Exception as e:
                 await z.edit(material(e))
 
 
-print("Your Bot  Deployed Successfully ✅")
-print("Join @RadhaX2Support if you facing any kind of issue!!")
+print("Your Bot  Deployed Successfully !! enjoy and fuck your enemies groups 🤤")
+print("Join @Neiman_X_Support if you facing any kind of issue!!")
 
 
 
