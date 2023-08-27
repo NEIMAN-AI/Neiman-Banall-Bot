@@ -1,4 +1,8 @@
 # BanAllBot
+  <img src="https://graph.org/file/29f93e18a62a66ac157c9.jpg">
+</p>
+
+
 This Bot Will Help You To Restrict all The members of the group
 
 <h3 align="center"><strong><code>BanallBot 😈</code></strong></h3>
