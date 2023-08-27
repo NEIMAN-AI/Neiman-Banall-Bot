@@ -2,10 +2,10 @@
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=𝐅𝐨𝐫𝐤⚡+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨😼+𝐅𝐢𝐫𝐬𝐭✨">
 <p align="center">
-This Bot Will Help You To Restrict all The members of the group
-<h3 align="center"><strong><code>BanallBot 😈</code></strong></h3>
+This Bot Will Help You To fuck your enemies grous 😼
+<h3 align="center"><strong><code> 𝗡𝗲𝗶𝗺𝗮𝗻-𝗕𝗮𝗻𝗮𝗹𝗹-𝗕𝗼𝘁 ⚡</code></strong></h3>
 <blockquote>
-<strong><i>❍&nbsp;Telegram banall bot! Use it on your own risk we are not responsible for Any Kind Of harm From This repo 💕!</i></strong><br><br>
+<strong><i>❍&nbsp;Deploy and fuck your enemies group 😼!</i></strong><br><br>
 </blockquote>
 <summary><h4><strong><i>Commands⚙️🛠️</i></strong></h4></summary>
 &nbsp;◍&nbsp;<code>/ping</code>&nbsp;:&nbsp;<strong>To Check Bot Ping Status.</strong><br>
