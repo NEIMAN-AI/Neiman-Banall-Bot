@@ -24,7 +24,7 @@ This Bot Will Help You To fuck your enemies groups 😼
 <summary><h3><strong>Credits⚡</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code>:-</code><br>
 <code>Telegram:- <a href="https://t.me/Neiman_X_Support
-">@GhostRadha</a></code><br>
+">Team Neiman</a></code><br>
 <code>Github:- <a href="https://github.com/NEIMAN-AI">NEIMAM</a></code><br>
 </details>
 </p>
