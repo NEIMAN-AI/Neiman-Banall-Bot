@@ -28,3 +28,11 @@ This Bot Will Help You To fuck your enemies groups 😼
 <code>Github:- <a href="https://github.com/NEIMAN-AI">NEIMAM</a></code><br>
 </details>
 </p>
+
+<p align="center">
+<a href="https://telegram.me/Neiman_X_Support"><img src="https://img.shields.io/badge/-Support%20group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/DETECTED_09"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
