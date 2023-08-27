@@ -1,7 +1,7 @@
-# BanAllBot
   <img src="https://graph.org/file/29f93e18a62a66ac157c9.jpg">
 </p>
-
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=𝐅𝐨𝐫𝐤⚡+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨😼+𝐅𝐢𝐫𝐬𝐭✨">
+<p align="center">
 
 This Bot Will Help You To Restrict all The members of the group
 
